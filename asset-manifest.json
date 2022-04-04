@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ts-spinning-task/static/css/main.3ea1eb02.css",
+    "main.js": "/ts-spinning-task/static/js/main.75be679f.js",
+    "static/js/787.aad65a53.chunk.js": "/ts-spinning-task/static/js/787.aad65a53.chunk.js",
+    "index.html": "/ts-spinning-task/index.html",
+    "main.3ea1eb02.css.map": "/ts-spinning-task/static/css/main.3ea1eb02.css.map",
+    "main.75be679f.js.map": "/ts-spinning-task/static/js/main.75be679f.js.map",
+    "787.aad65a53.chunk.js.map": "/ts-spinning-task/static/js/787.aad65a53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ea1eb02.css",
+    "static/js/main.75be679f.js"
+  ]
+}
